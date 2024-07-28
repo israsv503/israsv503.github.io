@@ -1,0 +1,12 @@
+Task 4: Enhance the Form and Table
+Enhance the Form:
+
+Add an email input field with a label.
+Add a password input field with a label.
+Add a dropdown (select) with at least three options.
+Add a set of radio buttons for gender selection (Male, Female, Other).
+Enhance the Table:
+
+Add a row at the top of the table with column headers inside a <thead> tag.
+Add a footer row using the <tfoot> tag with a summary or total.
+Feel free to return to this task when you're ready. You can always copy this text into a note for later use. If you have any other questions or need assistance, just let me know!
